@@ -1,4 +1,4 @@
-# Rms
+# Reusable multi-select component
 
 To start your Phoenix server:
 
